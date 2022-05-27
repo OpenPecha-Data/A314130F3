@@ -1,0 +1,18 @@
+segment_sources:
+  ID6F3FDCD:
+    type: origin_type
+    relation: translation
+    language: sa
+  I704434AE:
+    type: origin_type
+    relation: translation
+    language: bo
+  I7E2FD0C5:
+    type: origin_type
+    relation: translation
+    language: sa
+segment_pairs:
+  f9f4d5316195429f8fe15a7003e436ec:
+    ID6F3FDCD: 01ba7cae74da4e76bcc580953905bf33
+    I704434AE: 8d1e37dd7a274974b27bcb68be842dd6
+    I7E2FD0C5: 9cb213775eb243ab97815971258903c9
